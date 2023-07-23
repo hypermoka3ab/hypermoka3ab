@@ -1,2 +1,7 @@
-baseURL: https://hbs-skeleton.netlify.app/
-googleAnalytics: 
+build:
+  writeStats: true
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
