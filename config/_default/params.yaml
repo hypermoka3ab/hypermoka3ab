@@ -41,9 +41,9 @@ palette: purple # Default palette. Optional. You'll need to clear the browser ca
 dateFormat: ":date_long"
 
 # Google Adsense
-googleAdsense: 
+googleAdsense:
 
-# math: true # Enable math globally.
+math: true # Enable math globally.
 # toc: false # Disable TOC globally.
 # tocPosition: content
 # breadcrumb: false # Disable breadcrumb
@@ -129,13 +129,13 @@ analytics:
 
 # Site verification
 siteVerification:
-  google: 
-  bing: 
-  baidu: 
-  baiduUnion:  # Baidu Union
-  so: 
-  sogou: 
-  shenma: 
+  google:
+  bing:
+  baidu:
+  baiduUnion: # Baidu Union
+  so:
+  sogou:
+  shenma:
 
 creativeCommons:
   # by: true # Credit must be given to you, the creator.
@@ -144,29 +144,29 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 # utterances:
-  # repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
-  #issueTerm: pathname # pathname, url, title, og:title
-  # label: comment
-  # By default, light and dark mode correspond to github-light and github-dark, respectively.
-  # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
-  #theme:  
+# repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
+#issueTerm: pathname # pathname, url, title, og:title
+# label: comment
+# By default, light and dark mode correspond to github-light and github-dark, respectively.
+# Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+#theme:
 
 #staticman:
-  #endpoint: https://yourstaticmaninstance # Required, replace with your own Staticman instance.
-  #repo: user/repo # Required
-  #service: github # or gitlab. Default to GitHub.
-  #branch: main # Default to master.
-  #property: comments # Default to comments.
-  #sorting: desc # Default to asc.
-  #reCaptchaKey: "" # The reCaptcha site key.
-  #reCaptchaSecret: "" # The reCaptcha encrypted secret. You'll need to encrypt plain secret via https://yourstaticmaninstance/v3/encrypt/PLAINSECRET.
-  #extraFields: # Extra fields. Available fiedls: url.
-  #  - url
-  #requiredFields: # Extra required fields. Available fields: email and the extra fields.
-  #  - email
-  #  - url
-  #paginate: 5 # Default to 10.
-  #moderation: false # Same as Staticman's moderation.
+#endpoint: https://yourstaticmaninstance # Required, replace with your own Staticman instance.
+#repo: user/repo # Required
+#service: github # or gitlab. Default to GitHub.
+#branch: main # Default to master.
+#property: comments # Default to comments.
+#sorting: desc # Default to asc.
+#reCaptchaKey: "" # The reCaptcha site key.
+#reCaptchaSecret: "" # The reCaptcha encrypted secret. You'll need to encrypt plain secret via https://yourstaticmaninstance/v3/encrypt/PLAINSECRET.
+#extraFields: # Extra fields. Available fiedls: url.
+#  - url
+#requiredFields: # Extra required fields. Available fields: email and the extra fields.
+#  - email
+#  - url
+#paginate: 5 # Default to 10.
+#moderation: false # Same as Staticman's moderation.
 
 # See https://giscus.app
 giscus:
@@ -196,12 +196,12 @@ search:
     # useExtendedSearch: true
 
 #docsearch:
-  # https://docsearch.algolia.com/docs/api
-  # container: ".search-bar" # replace it if necessary, default to '.search-bar'.
-  # appId: ""
-  # apiKey: ""
-  # indexName: ""
-  # debug: true
+# https://docsearch.algolia.com/docs/api
+# container: ".search-bar" # replace it if necessary, default to '.search-bar'.
+# appId: ""
+# apiKey: ""
+# indexName: ""
+# debug: true
 
 reward:
   alipay: images/reward/alipay.png
@@ -211,10 +211,10 @@ reward:
   #liberapay: images/reward/liberapay.png
 
 #share:
-  #addThis:  # AddThis pubid.
+#addThis:  # AddThis pubid.
 
 #actionsPanel:
-  # disabled: true
+# disabled: true
 
 # Comment or remove this settings to disable font size switcher.
 fontSize:
@@ -229,8 +229,8 @@ pwa:
     short_name: HBS
     # display: fullscreen # Default to standalone.
     # description:  # Default to site description.
-    # theme_color: 
-    # background_color: 
+    # theme_color:
+    # background_color:
 
     # Icons
     # [[pwa.manifest.icons]]
@@ -245,7 +245,7 @@ contact:
   # file: true # Enable file upload
   # fileField: image # The name of file field.
   # reCaptcha:
-    # siteKey: ""
+  # siteKey: ""
 
 repo:
   url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
@@ -259,10 +259,9 @@ topAppBar:
     github: razonyang/hugo-theme-bootstrap
     patreon: razonyang
     paypal: razonyang
-
 #docs:
-  # nav:
-    # expand: true # Expand docs navigations.
+# nav:
+# expand: true # Expand docs navigations.
 
 #feeds:
-  # content: true
+# content: true
