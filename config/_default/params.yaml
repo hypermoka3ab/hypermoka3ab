@@ -170,10 +170,10 @@ creativeCommons:
 
 # See https://giscus.app
 giscus:
-  repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
-  repoId: "R_kgDOHJi95g" # required.
+  repo: "hypermoka3ab/hypermoka3ab" # required.
+  repoId: "R_kgDOJ-x8Gg" # required.
   category: "General" # required.
-  categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
+  categoryId: "DIC_kwDOJ-x8Gs4CYHnw" # required.
   # theme: "dark" # Default to auto.
   # mapping: "title" # Default to pathname.
   # inputPosition: "bottom" # Default to top.
