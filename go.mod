@@ -1,4 +1,4 @@
-module github.com/mohammedbelgoumri/blog
+module github.com/hypermoka3ab/hypermoka3ab
 
 go 1.18
 
