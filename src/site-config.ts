@@ -39,7 +39,7 @@ export const siteConfig = {
   ],
   header: {
     logo: {
-      src: '/favicon.svg',
+      src: '/hmlogo.png',
       alt: 'Logo Image',
     },
     navLinks: [
